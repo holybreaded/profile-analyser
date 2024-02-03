@@ -1,0 +1,2 @@
+python github_profile_analyzer.py <github_username>
+# replace github_username with the username whose profile you wish to analyse
